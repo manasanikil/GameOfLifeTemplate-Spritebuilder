@@ -2269,13 +2269,13 @@
 			<key>name</key>
 			<string>Default Timeline</string>
 			<key>offset</key>
-			<real>0.94068241119384766</real>
+			<real>3.0722150802612305</real>
 			<key>position</key>
-			<real>0.0</real>
+			<real>6.4666666984558105</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
-			<real>128</real>
+			<real>126.97190856933594</real>
 			<key>sequenceId</key>
 			<integer>0</integer>
 			<key>soundChannel</key>
